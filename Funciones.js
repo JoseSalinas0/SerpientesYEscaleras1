@@ -43,8 +43,6 @@ function dadoBlanco(n){
     }
 }
 
-
-
 function moverJ1(num){
     aux = posicionJ1;
     aux=aux+num;
